@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="uuid_id" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:language>en</dc:language>
+    <dc:title>Microsoft Word - cuentos y leyendas de honduras_jorge montenegro_.doc</dc:title>
+    <dc:creator opf:file-as="GAME" opf:role="aut">GAME</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.18.0) [https://calibre-ebook.com]</dc:contributor>
+    <meta content="2021-05-27T22:01:28.969041+00:00" name="calibre:timestamp"/>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">17e356d8-ecaa-46b8-819b-82cb93f39d60</dc:identifier>
+    <dc:identifier opf:scheme="calibre">17e356d8-ecaa-46b8-819b-82cb93f39d60</dc:identifier>
+    <meta content="Microsoft Word - cuentos y leyendas de honduras_jorge montenegro_.doc" name="calibre:title_sort"/>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <meta content="1.5.1" name="Sigil version"/>
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2021-05-27</dc:date>
+  </metadata>
+  <manifest>
+    <item id="ch01" href="c01.html" media-type="application/xhtml+xml"/>
+    <item id="ch02" href="c02.html" media-type="application/xhtml+xml"/>
+    <item id="ch03" href="c03.html" media-type="application/xhtml+xml"/>
+    <item id="ch04" href="c04.html" media-type="application/xhtml+xml"/>
+    <item id="ch05" href="c05.html" media-type="application/xhtml+xml"/>
+    <item id="ch06" href="c06.html" media-type="application/xhtml+xml"/>
+    <item id="ch07" href="c07.html" media-type="application/xhtml+xml"/>
+    <item id="ch08" href="c08.html" media-type="application/xhtml+xml"/>
+    <item id="ch09" href="c09.html" media-type="application/xhtml+xml"/>
+    <item id="ch10" href="c10.html" media-type="application/xhtml+xml"/>
+    <item id="png01" href="c01.png" media-type="image/png"/>
+    <item id="png02" href="c02.png" media-type="image/png"/>
+    <item id="png03" href="c03.png" media-type="image/png"/>
+    <item id="png04" href="c04.png" media-type="image/png"/>
+    <item id="png05" href="c05.png" media-type="image/png"/>
+    <item id="png06" href="c06.png" media-type="image/png"/>
+    <item id="png07" href="c07.png" media-type="image/png"/>
+    <item id="png08" href="c08.png" media-type="image/png"/>
+    <item id="png09" href="c09.png" media-type="image/png"/>
+    <item id="png10" href="c10.png" media-type="image/png"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="ch01"/>
+    <itemref idref="ch02"/>
+    <itemref idref="ch03"/>
+    <itemref idref="ch04"/>
+    <itemref idref="ch05"/>
+    <itemref idref="ch06"/>
+    <itemref idref="ch07"/>
+    <itemref idref="ch08"/>
+    <itemref idref="ch09"/>
+    <itemref idref="ch10"/>
+  </spine>
+</package>

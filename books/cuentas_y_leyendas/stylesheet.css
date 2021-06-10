@@ -1,0 +1,63 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block;
+    margin: 1em 0
+    }
+
+div.center {
+    text-align: center;
+}
+
+p.note {
+    font-style: italic;
+}
+
+img {
+    height: auto;
+    width: auto;
+}
+
+h2 , h3{
+    display:block;
+    text-align: center;
+    font-style: italic
+}
+/*h2 + p:first-letter{
+    font-weight: bold;
+    float: left;
+    font-family: Zapfino, cursive, serif;
+    line-height: 1;
+    font-size: 3em;
+    float: left;
+    margin-top: 0;
+    margin-bottom: -.05em;
+}*/
+.calibre3 {
+    font-weight: bold
+    }
+.calibre4 {
+    font-style: italic
+    }
+.calibre5 {
+    display: block;
+    font-size: 1.375em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0.83em 0
+    }
+.calibre6 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre7 {
+    display: block;
+    text-align: center;
+    margin: 1em 0
+    }
