@@ -1,0 +1,13 @@
+stanza css
+quote (defined by "-") css
+cover
+title
+toc
+uniform end notes
+
+generate content.opf
+totally generated (how to deal with deviations)
+structure repo
+script to clean page numbers
+validate number of paragraphs
+
