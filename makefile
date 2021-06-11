@@ -7,4 +7,7 @@ test:
 	cd $(BOOK); zip -9 -r $(BUILD)/test.epub *
 
 validate: test
-	epubcheck build/test.epub
+	epubcrealpathheck $(BUILD)/test.epub
+
+install:
+	sudo cp $(BUILD)/test.epub /mnt/documents/Downloads/Items01/

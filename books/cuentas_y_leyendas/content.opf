@@ -14,6 +14,7 @@
     <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2021-05-27</dc:date>
   </metadata>
   <manifest>
+    <item id="p0" href="p0.html" media-type="application/xhtml+xml"/>
     <item id="ch01" href="c01.html" media-type="application/xhtml+xml"/>
     <item id="ch02" href="c02.html" media-type="application/xhtml+xml"/>
     <item id="ch03" href="c03.html" media-type="application/xhtml+xml"/>
@@ -24,6 +25,35 @@
     <item id="ch08" href="c08.html" media-type="application/xhtml+xml"/>
     <item id="ch09" href="c09.html" media-type="application/xhtml+xml"/>
     <item id="ch10" href="c10.html" media-type="application/xhtml+xml"/>
+    <item id="ch11" href="c11.html" media-type="application/xhtml+xml"/>
+    <item id="ch12" href="c12.html" media-type="application/xhtml+xml"/>
+    <item id="ch13" href="c13.html" media-type="application/xhtml+xml"/>
+    <item id="ch14" href="c14.html" media-type="application/xhtml+xml"/>
+    <item id="ch15" href="c15.html" media-type="application/xhtml+xml"/>
+    <item id="ch16" href="c16.html" media-type="application/xhtml+xml"/>
+    <item id="ch17" href="c17.html" media-type="application/xhtml+xml"/>
+    <item id="ch18" href="c18.html" media-type="application/xhtml+xml"/>
+    <item id="ch19" href="c19.html" media-type="application/xhtml+xml"/>
+    <item id="ch20" href="c20.html" media-type="application/xhtml+xml"/>
+    <item id="ch21" href="c21.html" media-type="application/xhtml+xml"/>
+    <item id="ch22" href="c22.html" media-type="application/xhtml+xml"/>
+    <item id="ch23" href="c23.html" media-type="application/xhtml+xml"/>
+    <item id="ch24" href="c24.html" media-type="application/xhtml+xml"/>
+    <item id="ch25" href="c25.html" media-type="application/xhtml+xml"/>
+    <item id="ch26" href="c26.html" media-type="application/xhtml+xml"/>
+    <item id="ch27" href="c27.html" media-type="application/xhtml+xml"/>
+    <item id="ch28" href="c28.html" media-type="application/xhtml+xml"/>
+    <item id="ch29" href="c29.html" media-type="application/xhtml+xml"/>
+    <item id="ch30" href="c30.html" media-type="application/xhtml+xml"/>
+    <item id="ch31" href="c31.html" media-type="application/xhtml+xml"/>
+    <item id="ch32" href="c32.html" media-type="application/xhtml+xml"/>
+    <item id="ch33" href="c33.html" media-type="application/xhtml+xml"/>
+    <item id="ch34" href="c34.html" media-type="application/xhtml+xml"/>
+    <item id="ch35" href="c35.html" media-type="application/xhtml+xml"/>
+    <item id="ch36" href="c36.html" media-type="application/xhtml+xml"/>
+    <item id="ch37" href="c37.html" media-type="application/xhtml+xml"/>
+    <item id="ch38" href="c38.html" media-type="application/xhtml+xml"/>
+    <item id="ch39" href="c39.html" media-type="application/xhtml+xml"/>
     <item id="png01" href="c01.png" media-type="image/png"/>
     <item id="png02" href="c02.png" media-type="image/png"/>
     <item id="png03" href="c03.png" media-type="image/png"/>
@@ -34,6 +64,34 @@
     <item id="png08" href="c08.png" media-type="image/png"/>
     <item id="png09" href="c09.png" media-type="image/png"/>
     <item id="png10" href="c10.png" media-type="image/png"/>
+    <item id="png11" href="c11.png" media-type="image/png"/>
+    <item id="png12" href="c12.png" media-type="image/png"/>
+    <item id="png13" href="c13.png" media-type="image/png"/>
+    <item id="png14" href="c14.png" media-type="image/png"/>
+    <item id="png15" href="c15.png" media-type="image/png"/>
+    <item id="png16" href="c16.png" media-type="image/png"/>
+    <item id="png17" href="c17.png" media-type="image/png"/>
+    <item id="png18" href="c18.png" media-type="image/png"/>
+    <item id="png19" href="c19.png" media-type="image/png"/>
+    <item id="png22" href="c22.png" media-type="image/png"/>
+    <item id="png23" href="c23.png" media-type="image/png"/>
+    <item id="png24" href="c24.png" media-type="image/png"/>
+    <item id="png25" href="c25.png" media-type="image/png"/>
+    <item id="png26" href="c26.png" media-type="image/png"/>
+    <item id="png27" href="c27.png" media-type="image/png"/>
+    <item id="png28" href="c28.png" media-type="image/png"/>
+    <item id="png29" href="c29.png" media-type="image/png"/>
+    <item id="png30" href="c30.png" media-type="image/png"/>
+    <item id="png31" href="c31.png" media-type="image/png"/>
+    <item id="png32" href="c32.png" media-type="image/png"/>
+    <item id="png33" href="c33.png" media-type="image/png"/>
+    <item id="png34" href="c34.png" media-type="image/png"/>
+    <item id="png34_2" href="c34_2.png" media-type="image/png"/>
+    <item id="png35" href="c35.png" media-type="image/png"/>
+    <item id="png36" href="c36.png" media-type="image/png"/>
+    <item id="png37" href="c37.png" media-type="image/png"/>
+    <item id="png38" href="c38.png" media-type="image/png"/>
+    <item id="png39" href="c39.png" media-type="image/png"/>
     <item id="css" href="stylesheet.css" media-type="text/css"/>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
   </manifest>
@@ -48,5 +106,34 @@
     <itemref idref="ch08"/>
     <itemref idref="ch09"/>
     <itemref idref="ch10"/>
+    <itemref idref="ch11"/>
+    <itemref idref="ch12"/>
+    <itemref idref="ch13"/>
+    <itemref idref="ch14"/>
+    <itemref idref="ch15"/>
+    <itemref idref="ch16"/>
+    <itemref idref="ch17"/>
+    <itemref idref="ch18"/>
+    <itemref idref="ch19"/>
+    <itemref idref="ch20"/>
+    <itemref idref="ch21"/>
+    <itemref idref="ch22"/>
+    <itemref idref="ch23"/>
+    <itemref idref="ch24"/>
+    <itemref idref="ch25"/>
+    <itemref idref="ch26"/>
+    <itemref idref="ch27"/>
+    <itemref idref="ch28"/>
+    <itemref idref="ch29"/>
+    <itemref idref="ch30"/>
+    <itemref idref="ch31"/>
+    <itemref idref="ch32"/>
+    <itemref idref="ch33"/>
+    <itemref idref="ch34"/>
+    <itemref idref="ch35"/>
+    <itemref idref="ch36"/>
+    <itemref idref="ch37"/>
+    <itemref idref="ch38"/>
+    <itemref idref="ch39"/>
   </spine>
 </package>
